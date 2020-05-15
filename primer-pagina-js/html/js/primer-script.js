@@ -1,3 +1,6 @@
+nombreYEdad();
+calcularEdad();
+
 function nombreYEdad(){
     alert("Bienvenido a mi primer pagina usando JavaScript!")
     var usuario_nombre = prompt("Cuál es tu nombre?")
