@@ -1,0 +1,31 @@
+.imperio{
+    background-color: red;
+}
+
+.rebelde{
+    background-color: blue;
+}
+
+.soldadoBorde{
+    border: dashed;
+}
+
+.espacioLetras{
+    letter-spacing: 5px;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.mayuscula{
+    text-transform: uppercase;
+}
+
+#Darth{
+    font-size: 50px;
+}
+
+#Luke{
+    font-style: italic;
+}

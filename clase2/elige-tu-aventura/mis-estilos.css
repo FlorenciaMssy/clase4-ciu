@@ -1,0 +1,43 @@
+.bienvenida{
+
+    font: bold 90% monospace;
+    font-size: xx-large;
+    font-style: oblique;
+    background-color: white;
+    text-align: center;
+
+}
+
+.fondo{
+
+    background-image: url("images/laberinto.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fuenteTexto{
+
+    font: bold 90% monospace;
+    font-size: 20;
+    color: black;
+    background-color: powderblue;
+    text-align: center;
+
+}
+
+a {
+
+    background-color: white;
+    text-align: center;
+    font: message-box;
+    padding: 10px 20px;
+
+}
+
+.centrar {
+    text-align: center;
+}
+
+
+
