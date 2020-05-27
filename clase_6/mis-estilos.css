@@ -1,0 +1,249 @@
+.fondo1 {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #52A8AD;
+    
+}
+
+.fondo2{
+    position: absolute;
+    width: 1442px;
+    height: 648px;
+    left: -2px;
+    top: 0px;
+    
+    background: #53CC58;
+    border: 1px solid #52A8AD;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);  
+}
+
+.login{
+    position: absolute;
+    width: 304px;
+    height: 518px;
+    left: 568px;
+    top: 312px;
+
+    background: #CFE3D0;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}
+
+.cabecera {
+    position: absolute;
+    width: 832px;
+    height: 75px;
+    left: 290px;
+    top: 13px;
+
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 75px;
+    /* identical to box height */
+    text-align: right;
+
+    color: #FFFFFF;
+
+    border: 1px solid #586658;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.cabecera_fondo {
+
+    position: absolute;
+    width: 1440px;
+    height: 101px;
+    left: 0px;
+    top: 0px;
+
+    background: #1C1E1C;
+}
+
+
+
+.logo_unahur{
+    position: absolute;
+width: 400px;
+height: 77px;
+left: 519px;
+top: 159px;
+
+background: url(logo_unahur.png);
+
+}
+
+
+
+/* Registrarse */
+
+position: absolute;
+width: 63px;
+height: 16px;
+left: 687px;
+top: 772px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Olvidaste la contraseña? */
+
+position: absolute;
+width: 218px;
+height: 12px;
+left: 654px;
+top: 744px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+.usuario{
+    position: absolute;
+    width: 228px;
+    height: 41px;
+    left: 605px;
+    top: 550px;
+    
+    background: #FFFFFF;
+    border: 1px solid #586658;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+     
+}
+
+
+/* Contraseña */
+
+position: absolute;
+width: 123px;
+height: 29px;
+left: 597px;
+top: 519px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: flex-end;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 228px;
+height: 41px;
+left: 606px;
+top: 440px;
+
+background: #FFFFFF;
+border: 1px solid #586658;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* Usuario */
+
+position: absolute;
+width: 55px;
+height: 21px;
+left: 597px;
+top: 417px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #0F0F0F;
+
+
+
+.entrar {
+    position: absolute;
+    width: 162px;
+    height: 42px;
+    left: 635px;
+    top: 660px;
+    
+    background: #FD7529;
+    border: 1px solid #586658;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+    
+}
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 1439px;
+height: 106px;
+left: 1px;
+top: 921px;
+
+background: #1C1E1C;
+
+
+/* Entrar */
+
+position: absolute;
+width: 33px;
+height: 16px;
+left: 704px;
+top: 673px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* UNIVERSIDAD NACIONAL DE HURLINGHAM | Tte. Origone 151 | Hurlingham | Buenos Aires | Argentina */
+
+position: absolute;
+width: 833px;
+height: 38px;
+left: 303px;
+top: 955px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
