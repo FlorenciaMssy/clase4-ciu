@@ -8,8 +8,22 @@
 </head>
 <body class="fondo1">
     <div class="fondo2"></div>
-    <div class="login"></div>
-    <div class="logo_unahur"></div>
+    <div id="login">
+        <form id="formulario">
+            <label for="usuario">Usuario:</label>
+            <br>
+            <input type="text" class="usuario" id="usuario"> 
+            <br>
+            <label for="contraseña">Contraseña:</label>
+            <br>
+            <input type="text" id="contraseña">
+            <br>
+            <br>
+            <button type="submit" id="entrar">Entrar</button> 
+        </form>
+        <div id="error"></div>
+    </div>
+    <img src="images/logo_unahur.png" id="logo_unahur">
     <div class="cabecera_fondo"></div>
     <div class="cabecera">Acompañamiento de estudiantes</div>
     <form>
@@ -17,8 +31,6 @@
         <input type="text" name="usuario" id="usuario">
     <button type="submit" class="entrar">Entrar</button>
     </form>
-    
-        
-        
+<script src="app.js"></script>       
 </body>
 </html>
